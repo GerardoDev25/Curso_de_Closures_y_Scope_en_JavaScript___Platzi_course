@@ -1,0 +1,2 @@
+# Curso_de_Closures_y_Scope_en_JavaScript___Platzi_course
+Curso_de_Closures_y_Scope_en_JavaScript___Platzi_course
