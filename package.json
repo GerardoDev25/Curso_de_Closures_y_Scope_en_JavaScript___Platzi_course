@@ -1,0 +1,20 @@
+{
+  "name": "curso_de_closures_y_scope_en_javascript___platzi_course",
+  "version": "0.0.1",
+  "description": "Curso_de_Closures_y_Scope_en_JavaScript___Platzi_course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardoDev25/Curso_de_Closures_y_Scope_en_JavaScript___Platzi_course.git"
+  },
+  "keywords": [],
+  "author": "Gerardo Miranda <gerardodev25@gmail.com> (https://github.com/GerardoDev25)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerardoDev25/Curso_de_Closures_y_Scope_en_JavaScript___Platzi_course/issues"
+  },
+  "homepage": "https://github.com/GerardoDev25/Curso_de_Closures_y_Scope_en_JavaScript___Platzi_course#readme"
+}
